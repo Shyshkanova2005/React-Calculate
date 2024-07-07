@@ -15,7 +15,7 @@ export default function  Division()  {
 
   return (
     <div>
-      <h2>Division</h2>
+      <h2>Ділення</h2>
       <input
         type="number"
         placeholder="Введіть перше число"

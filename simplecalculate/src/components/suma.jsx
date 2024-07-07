@@ -11,7 +11,7 @@ export default function  Suma()  {
 
     return (
         <div>
-            <h2>Suma</h2>
+            <h2>Сума</h2>
           <input
             type="number"
             placeholder="Введіть перше число"

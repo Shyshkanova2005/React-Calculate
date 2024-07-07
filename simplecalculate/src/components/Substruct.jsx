@@ -14,7 +14,7 @@ export default function  Substruct()  {
 
   return (
     <div>
-      <h2>Substruct</h2>
+      <h2>Віднімання</h2>
       <input
         type="number"
         placeholder="Введіть перше число"

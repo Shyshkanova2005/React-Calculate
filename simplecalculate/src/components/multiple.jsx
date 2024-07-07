@@ -16,7 +16,7 @@ export default function  Multiple()  {
 
   return (
     <div>
-       <h2>Multiple</h2>
+       <h2>Множення</h2>
       <input
         type="number"
         placeholder="Введіть перше число"

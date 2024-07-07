@@ -1,9 +1,9 @@
+import { useState } from 'react'
 export default function Header() {
     
     return (
         <div class="header">
-          <h3>Simple Calculator</h3>
-            <span>time {"hello".toUpperCase()} </span>
+          <h2>Simple Calculator</h2>
         </div>
             
     )
